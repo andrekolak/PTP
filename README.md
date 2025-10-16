@@ -2,7 +2,7 @@
 
 **One HTML file.** Password-gated, end-to-end encrypted (PBKDF2→AES-GCM), P2P/WebRTC with ICE-gathering fix, plus local `file://` crypto fallback.
 
-**Demo:** https://andrekolak.github.io/PTP/  
+**Demo:** https://andrekolak.github.io 
 **File:** `LLM_Duel_Arena_v2_9_localfile_p2p_fixed.html`
 
 ## Quick Start
